@@ -51,8 +51,4 @@ streamlit run app.py
 
 Open the app at: `http://localhost:8501`
 
-## Final Project UI
-
-Below is a screenshot of the Legal RAG Assistant interface:
-![alt text](image.png)
 
