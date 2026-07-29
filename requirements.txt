@@ -1,0 +1,10 @@
+faiss-cpu
+google-genai
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+pymupdf
+python-dotenv
+sentence-transformers
+streamlit

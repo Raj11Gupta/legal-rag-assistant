@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS index (generated at runtime)
+rag_faiss_store/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
