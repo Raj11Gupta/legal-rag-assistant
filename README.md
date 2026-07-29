@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) assistant for analyzing legal PDF documen
 ### Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Raj11Gupta/legal-rag-assistant.git
 cd legal-rag-assistant
 ```
 
